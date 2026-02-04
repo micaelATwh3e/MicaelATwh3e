@@ -2,6 +2,9 @@
 
 ### A passionate Python developer
 
+![Now Playing](https://spotify.wh3e.se/now-playing.svg)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/micaelATwh3e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="micaelATwh3e" height="30" width="40" /></a>
